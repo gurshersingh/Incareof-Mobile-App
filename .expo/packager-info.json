@@ -1,0 +1,10 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://99-v8g.iamgursher.frontend.exp.direct",
+  "packagerNgrokUrl": "https://packager.99-v8g.iamgursher.frontend.exp.direct",
+  "ngrokPid": 33084,
+  "packagerPort": 19001,
+  "packagerPid": 29364,
+  "webpackServerPort": null,
+  "devToolsPort": 19002
+}
